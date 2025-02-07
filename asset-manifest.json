@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Gimeliberty/hws2-master.git/static/css/main.494fb96b.css",
-    "main.js": "/Gimeliberty/hws2-master.git/static/js/main.25c342e1.js",
-    "static/js/787.67f55d8d.chunk.js": "/Gimeliberty/hws2-master.git/static/js/787.67f55d8d.chunk.js",
-    "static/media/avatar.png": "/Gimeliberty/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/Gimeliberty/hws2-master.git/index.html",
-    "main.494fb96b.css.map": "/Gimeliberty/hws2-master.git/static/css/main.494fb96b.css.map",
-    "main.25c342e1.js.map": "/Gimeliberty/hws2-master.git/static/js/main.25c342e1.js.map",
-    "787.67f55d8d.chunk.js.map": "/Gimeliberty/hws2-master.git/static/js/787.67f55d8d.chunk.js.map"
+    "main.css": "/Gimeliberty/hws2-master/static/css/main.494fb96b.css",
+    "main.js": "/Gimeliberty/hws2-master/static/js/main.eb13f1b1.js",
+    "static/js/787.67f55d8d.chunk.js": "/Gimeliberty/hws2-master/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/Gimeliberty/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Gimeliberty/hws2-master/index.html",
+    "main.494fb96b.css.map": "/Gimeliberty/hws2-master/static/css/main.494fb96b.css.map",
+    "main.eb13f1b1.js.map": "/Gimeliberty/hws2-master/static/js/main.eb13f1b1.js.map",
+    "787.67f55d8d.chunk.js.map": "/Gimeliberty/hws2-master/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.494fb96b.css",
-    "static/js/main.25c342e1.js"
+    "static/js/main.eb13f1b1.js"
   ]
 }
